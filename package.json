@@ -1,0 +1,26 @@
+{
+  "name": "Flashcard-generator",
+  "version": "1.0.0",
+  "description": "Flashcard Generator",
+  "main": "FlashCards.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teddybluez/Flashcard-Generator.git"
+  },
+  "author": "teddybluez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/teddybluez/Flashcard-Generator/issues"
+  },
+  "homepage": "https://github.com/teddybluez/Flashcard-Generator#readme",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "fs": "0.0.1-security",
+    "inquirer": "^3.2.2",
+    "request": "^2.81.0",
+    "requirer": "0.0.4"
+  }
+}
